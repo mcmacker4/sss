@@ -10,8 +10,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-favicon": "0.0.9",
-    "react-scripts": "1.0.10",
-    "super-secret-settings": "^1.0.1"
+    "react-scripts": "1.0.10"
   },
   "scripts": {
     "start": "react-scripts start",

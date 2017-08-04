@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import copy from 'copy-to-clipboard';
 import Favicon from 'react-favicon';
-import SuperSecretSettings from 'super-secret-settings';
+import SuperSecretSettings from './sss';
 
 class App extends Component {
 
