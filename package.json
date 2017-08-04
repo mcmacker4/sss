@@ -1,0 +1,22 @@
+{
+  "name": "sss-web",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "https://github.com/mcmacker4/sss",
+  "homepage": "http://mcmacker4.com/sss",
+  "dependencies": {
+    "copy-to-clipboard": "latest",
+    "random-seed": "^0.3.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-favicon": "0.0.9",
+    "react-scripts": "1.0.10",
+    "super-secret-settings": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
